@@ -1,0 +1,16 @@
+sala
+
+sala 1 
+
+sala 2
+
+sala 3
+
+~
+
+Nessa situação, eu iria ligar o interruptor 1 e 3 e iria na sala 2, caso estivesse desligada,
+retornaria e apagaria o interruptor 1, e retornaria à sala 1, caso estivesse desligada, entederia que está na sequencia númera
+
+sala 1 = interruptor 1
+sala 2 = interruptor 2
+sala 3 = interruptor 3
